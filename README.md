@@ -55,8 +55,6 @@ Acidentes-Dutra/
 │       └── prf_limpo.sql
 │
 ├── banco_db.py                ← script principal de carga e limpeza
-├── CONTEXT_dutra.md           ← contexto detalhado do projeto
-├── MICROTAREFAS_dutra.md      ← roadmap em passos pequenos
 ├── requirements.txt
 └── .gitignore
 ```
