@@ -1,0 +1,28 @@
+# Dados brutos (nunca sobem pro GitHub)
+data/raw/
+
+# Bancos de dados processados
+data/processed/
+
+# Ambiente virtual Python
+venv/
+.venv/
+env/
+.vscode/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints automáticos do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros arquivos
+
+CONTEXT_dutra.md
+
