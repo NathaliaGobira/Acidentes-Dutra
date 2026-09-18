@@ -2,3 +2,5 @@ pandas
 matplotlib
 seaborn
 jupyter
+scipy
+folium

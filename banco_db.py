@@ -9,13 +9,18 @@ CSV_NOVADUTRA = BASE / 'data/raw/ANTT/antt_novadutra.csv'
 BANCO       = BASE / 'data/processed/acidentes.db'
 
 ARQUIVOS_PRF = [
-    BASE / 'data/raw/PRF/prf_22.csv',
-    BASE / 'data/raw/PRF/prf_23.csv',
-    BASE / 'data/raw/PRF/prf_24.csv',
-    BASE / 'data/raw/PRF/prf_25.csv',
-    BASE / 'data/raw/PRF/prf_26.csv',
+        BASE / 'data/raw/PRF/prf_17.csv',
+        BASE / 'data/raw/PRF/prf_18.csv',
+        BASE / 'data/raw/PRF/prf_19.csv',
+        BASE / 'data/raw/PRF/prf_20.csv',
+        BASE / 'data/raw/PRF/prf_21.csv',
+        BASE / 'data/raw/PRF/prf_22.csv',
+        BASE / 'data/raw/PRF/prf_23.csv',
+        BASE / 'data/raw/PRF/prf_24.csv',
+        BASE / 'data/raw/PRF/prf_25.csv',
+        BASE / 'data/raw/PRF/prf_26.csv',
 ]
-
+    
 # Padronizando os dados da RIOSP
 
 df_riosp = pd.read_csv(
